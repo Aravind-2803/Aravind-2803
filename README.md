@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **OOP's Project Linked with Database**
 
-- 🌱 I’m currently learning **M.SC Computer Science In ANNA UNIVERSITY, CHENNAI-600025.**
-
+- "🎓 Pursuing **My M.Sc. in Computer Science at Anna University, Chennai – continuously learning and growing in the tech space."
 - 👨‍💻 All of my projects are available at [https://github.com/Aravind-2803/Projects](https://github.com/Aravind-2803/Projects)
 
-- 📫 How to reach me **aravindv2803@gmail.com**
+- 📥 Whether it’s tech talk or teamwork, drop a line at **aravindv2803@gmail.com**
 
 - "💻 I love dissecting code and 🧠 feasting on its logic — it's not just a hobby, it's my favorite way to think, learn, and grow." **
 - 🔹 Playful: "👨‍💻 Tearing code apart and 🍽️ devouring the logic behind it — that’s my idea of fun!"
