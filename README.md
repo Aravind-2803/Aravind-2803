@@ -70,7 +70,7 @@
 ## 🚀 GitHub Highlights
 
 ### 🔝 Top Contributed Repos  
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Aravind-2803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000)](https://github.com/Aravind-2803)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Aravind-2803&limit=8&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000)](https://github.com/Aravind-2803)
 
 
 </div>
