@@ -72,10 +72,6 @@
 ### 🔝 Top Contributed Repos  
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=Aravind-2803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000)](https://github.com/Aravind-2803)
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Aravind-2803&label=Profile%20Views&color=6&icon=5)](https://github.com/Aravind-2803)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Aravind-2803&icon=5&color=1&style=plastic&label=👀+Visitors&pretty=true&bg=00000000)](https://visitcount.itsvg.in)
 
 </div>
 
