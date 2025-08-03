@@ -51,6 +51,7 @@
 ![C](https://img.shields.io/badge/c++-%23599C.svg?style=for-the-badge&logo=c++&logoColor=grey) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<div align="center">
 
 
 # 📊 GitHub Stats:
@@ -61,14 +62,23 @@
 
 ###
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aravind-2803&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aravind-2803&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+## 🚀 GitHub Highlights
+
+### 🔝 Top Contributed Repos  
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Aravind-2803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000)](https://github.com/Aravind-2803)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aravind-2803&icon=9&color=0)](https://visitcount.itsvg.in)
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Aravind-2803&label=Profile%20Views&color=6&icon=5)](https://github.com/Aravind-2803)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Aravind-2803&icon=5&color=1&style=plastic&label=👀+Visitors&pretty=true&bg=00000000)](https://visitcount.itsvg.in)
+
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
